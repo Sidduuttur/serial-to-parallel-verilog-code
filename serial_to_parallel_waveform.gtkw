@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Thu Mar 20 08:07:39 2025
+[*]
+[dumpfile] "C:\VSS\dump.vcd"
+[dumpfile_mtime] "Thu Mar 20 07:53:22 2025"
+[dumpfile_size] 2422
+[savefile] "C:\VSS\serial_to_parallel_waveform.gtkw"
+[timestart] 0
+[size] 1920 1033
+[pos] -155 -152
+*-7.006953 6 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_serial_to_parallel.
+[sst_width] 288
+[signals_width] 210
+[sst_expanded] 1
+[sst_vpaned_height] 306
+@28
+tb_serial_to_parallel.clk
+tb_serial_to_parallel.load
+@22
+tb_serial_to_parallel.parallel_out[31:0]
+@28
+tb_serial_to_parallel.reset
+tb_serial_to_parallel.serial_in
+@23
+tb_serial_to_parallel.dut.shift_reg[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
